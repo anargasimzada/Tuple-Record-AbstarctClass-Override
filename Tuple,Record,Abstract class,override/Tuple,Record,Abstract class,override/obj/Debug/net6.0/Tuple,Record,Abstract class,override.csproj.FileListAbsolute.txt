@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\Tuple,Record,Abstract class,override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\Tuple,Record,Abstract class,override.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\Tuple,Record,Abstract class,override.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\Tuple,Record,Abstract class,override.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\bin\Debug\net6.0\Tuple,Record,Abstract class,override.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\bin\Debug\net6.0\Tuple,Record,Abstract class,override.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\bin\Debug\net6.0\Tuple,Record,Abstract class,override.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\bin\Debug\net6.0\Tuple,Record,Abstract class,override.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\bin\Debug\net6.0\Tuple,Record,Abstract class,override.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\Tuple,Record,Abstract class,override.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\refint\Tuple,Record,Abstract class,override.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\Tuple,Record,Abstract class,override.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\Tuple,Record,Abstract class,override.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Tuple,Record,Abstract class,override\Tuple,Record,Abstract class,override\obj\Debug\net6.0\ref\Tuple,Record,Abstract class,override.dll
